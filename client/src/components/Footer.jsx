@@ -10,7 +10,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             className="ml-1 bg-red-400 text-white rounded px-2 py-0.5 hover:bg-red-500 transition"
-          >
+          > 
             Me
           </a>
         </p>
