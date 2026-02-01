@@ -1,4 +1,3 @@
-
 const Footer = () => {
   return (
     <>
@@ -9,9 +8,14 @@ const Footer = () => {
             href="https://github.com/deva-ydv"
             target="_blank"
             rel="noopener noreferrer"
-            className="ml-1 bg-red-400 text-white rounded px-2 py-0.5 hover:bg-red-500 transition"
-          > 
-            Me
+            className="ml-2 inline-flex items-center gap-1 bg-gradient-to-r from-blue-500 to-blue-500
+              text-white font-semibold
+              px-3 py-1 rounded-full
+              shadow-md
+              hover:scale-110 hover:shadow-lg
+              active:scale-95
+              transition-all duration-300" >
+            deva-ydv
           </a>
         </p>
       </div>
