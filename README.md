@@ -2,6 +2,15 @@
 
 A modern, full-stack blogging application designed for seamless content creation and user engagement. This platform features a robust backend for managing posts and comments, integrated with AI capabilities and cloud-based image management.
 
+⚡ Key Features
+🔐 Secure authentication using JWT-based login system
+📝 Create, edit, and delete blog posts with rich content support
+🖼️ Image upload and optimization using ImageKit
+🤖 AI-powered blog generation using Gemini API
+👨‍💼 Admin dashboard for content and comment management
+💬 Comment system for user interaction
+⚡ Fast and responsive UI built with React + Vite
+
 🚀 Features
 AI-Powered Insights: Integrated with Google Gemini AI to enhance the blogging experience.
 
